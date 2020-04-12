@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Rick",
+    "email": "rickgrimes@uahoo.com"
+  },
+  {
+    "id": 2,
+    "name": "Eduardo",
+    "email": "eddy@mail.com"
+  },
+  {
+    "id": 3,
+    "name": "Vincent",
+    "email": "1997@google.com"
+  }
+]
